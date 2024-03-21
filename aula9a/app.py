@@ -29,9 +29,24 @@
 # frase = '   Curso em Video Python   '
 # print(len(frase.strip() 
 
-# # Trocando o nome de Python para Android
+# # # Trocando o nome de Python para Android para salvar o resultado é necessário 
 # frase = 'Curso em Video Python'
-# print(frase.replace('Python','Android'))
+# frase = frase.replace('Python','Android')
+# print(frase)
+
+# # Verificar  se a palavra curso está dentro da frase utilizado in
+# frase = 'Curso em Video Python'
+# frase = frase.replace('Python','Android')
+# print('Curso' in frase)
+
+# Para verificar a posição do mesmo utilizar find 
+# frase = 'Curso em Video Python'
+# print(frase.find('Video'))
+
+
+
+
+
 
 
 
