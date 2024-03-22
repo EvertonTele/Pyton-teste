@@ -27,7 +27,7 @@
 
 # strip tira os espaços indesejados.  
 # frase = '   Curso em Video Python   '
-# print(len(frase.strip() 
+# print(len(frase.strip()))
 
 # # # Trocando o nome de Python para Android para salvar o resultado é necessário 
 # frase = 'Curso em Video Python'
@@ -44,6 +44,24 @@
 # print(frase.find('Video'))
 
 
+# procurar pela frase minscula, se tiver em maiuculo vai dar -1
+# frase = 'Curso em Video Python'
+# print(frase.lower().find('Video'))
+
+# Separa as lista do Cursos em video Python separando em couchetes
+# frase = 'Curso em Video Python'
+# print(frase.split())
+
+# Outro Exemplo
+# Separa as lista do Cursos em video Python separando em couchetes
+# frase = 'Curso em Video Python'
+# dividido = frase.split()
+# print(dividido[0])
+
+# outro exemplo
+# frase = 'Curso em Video Python'
+# dividido = frase.split()
+# print(dividido[2][3])
 
 
 
