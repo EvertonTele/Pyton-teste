@@ -1,5 +1,5 @@
 # frase = 'Curso em video Python'
-# print(frase[3:13])
+# print(frase[3:9])
 
 # frase = 'Curso em Video Python'
 # print(frase[:13])
